@@ -80,7 +80,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getName() {
-		return 'Drive';
+		return 'sk8tech';
 	}
 
 	/**
@@ -88,7 +88,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getHTMLName() {
-		return 'Drive';
+		return 'Drive | SK8Tech';
 	}
 
 	/**
