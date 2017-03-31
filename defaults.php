@@ -72,7 +72,7 @@ class OC_Theme {
 	 * @return string title
 	 */
 	public function getTitle() {
-		return 'Drive - SK8Tech';
+		return 'SK8Tech';
 	}
 
 	/**
@@ -112,7 +112,7 @@ class OC_Theme {
 	 * @return string logo claim
 	 */
 	public function getLogoClaim() {
-		return '';
+		return 'SK8Tech';
 	}
 
 	/**
